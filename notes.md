@@ -1,13 +1,16 @@
 # Resources
-- [mybrary app](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM) 3=> 33:00
+- [mybrary app](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM) 4=> 00:00
 - [Heroku application](https://dashboard.heroku.com/apps/dev-mybrary)
 - [mongo atlas](https://cloud.mongodb.com/v2/62384cf663c6f94b70dde4bb#clusters)
 - you can watch the vedio on the normal speed while writing along so you don't miss a thing specially if it was the first time i do this type of projects 
-- 
+- [filepond](https://pqina.nl/filepond/) => to upload photos to mongodb
+
 
 # dependencies
-- `npm i express ejs express-ejs-layouts body-parser multer` => runtime
+- `npm i express ejs express-ejs-layouts body-parser` => runtime
 - `npm i nodemon dotenv -D` => dev
+- we will handel converting images into strings using `filepond` in the #4 vedio
+- 
 - people refere to controllers as routes. so routes can be designed to contain the controller logic instead of calling it from another controller files 
 
 # considering the project
@@ -29,7 +32,12 @@
 - 
 
 # time line 
-- #1 => installed pakages || file structure
-- #2 => author route || search implementation || intro to form and submit to db
-- #3 => books route || deeper form data || taking file || dynamic select box || handling routes to send bigger data to db
--  
+- ##1 => installed pakages || file structure
+- ##2 => author route || search implementation || intro to form and submit to db
+- ##3 => books route || deeper form data || taking file || dynamic select box || handling routes to send bigger data to db || more complex search 
+
+## 4 
+- uploading pics to mongodb 
+- using file pond for user to control and preview images and to also resize it for us before adding it to the database 
+- 
+
