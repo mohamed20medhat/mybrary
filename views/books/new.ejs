@@ -1,8 +1,6 @@
-<h2>New Book</h2>
-<!--we no longer need to use multer or multipart form in the form here. cause it will be sent as a string representation of the image due to filepond-->
-<form action="/books" method="post">
-    <%- include('_form_fields') %>
-
-    <a href="/books">Cancel</a>
-    <button type="submit">Create</button>
+<h2 class="page-header">New Book</h2>
+<form action="/books" method="POST">
+  <%- include('_form_fields') %>
+  <a href="/books">Cancel</a>
+  <button type="submit">Create</button>
 </form>
