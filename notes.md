@@ -1,9 +1,10 @@
 # Resources
-- [mybrary app](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM) 7=> 00:00
+- [mybrary app](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM) 8=> 00:00
 - [Heroku application](https://dashboard.heroku.com/apps/dev-mybrary)
 - [mongo atlas](https://cloud.mongodb.com/v2/62384cf663c6f94b70dde4bb#clusters)
 - you can watch the vedio on the normal speed while writing along so you don't miss a thing specially if it was the first time i do this type of projects 
 - [filepond](https://pqina.nl/filepond/) => to upload photos to mongodb
+- progress -> go to form css || then continue the "another book" section in the last vedio 20:00
 
 
 # dependencies
