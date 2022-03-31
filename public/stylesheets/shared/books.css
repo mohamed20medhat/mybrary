@@ -1,7 +1,7 @@
 :root {
-  --book-cover-width: 200px;
-  --book-cover-width-large: 325px;
-  --book-cover-aspect-ratio: 0.75;
+    --book-cover-width: 200px;
+    --book-cover-width-large: 325px;
+    --book-cover-aspect-ratio: 0.75;
 }
 
 .book-cover {
@@ -10,7 +10,7 @@
 }
 
 .book-cover-large {
-    --book-cover-width: var(var(--book-cover-width-large));
+    --book-cover-width: var(--book-cover-width-large);
 }
 
 .book-grid {
